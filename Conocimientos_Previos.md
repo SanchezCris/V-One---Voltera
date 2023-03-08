@@ -1,0 +1,58 @@
+# ***<u>CONOCIMIENTOS PREVIOS</u>***
+
+## PCB
+
+#### ***¿QUÉ ES UNA PCB?***
+
+Printed Circuit Board (PCB)
+
+
+
+
+
+![Printed-Circuit-Board](C:\Users\bycri\Downloads\Printed-Circuit-Board.jpg)
+
+
+
+#### ***TIPOS DE PCB***
+
+# EQUIPO BÁSICO
+
+## ESTACIÓN DE SOLDADURA
+
+## HERRAMIENTAS
+
+# MONTAJE DE CIRCUITOS ELECTRÓNICOS
+
+## THT
+
+## SMD
+
+## PICK AND PLACE
+
+## CIRCUITOS FLEXIBLES
+
+# SOFTWARE PARA SIMULACIÓN DE CIRCUITOS
+
+## MULTISIM
+
+## PROTEUS
+
+## AUTODESK TINKERCAD
+
+# SOFTWARE PARA EL DISEÑO DE PISTAS
+
+## EAGLE
+
+## KICAD
+
+## PROTEUS
+
+# REGLAS PARA DISEÑAR PISTAS E ISLAS DEL PCB
+
+## AMPERAJE
+
+# VOLTERA
+
+## V-ONE
+
